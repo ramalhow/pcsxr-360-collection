@@ -1,3 +1,3 @@
-# sources-pcsxr-360
+# pcsxr-360-collection
 
- backup of all sources of the pcsxr-360 emulator that i found online
+this is a backup of all sources of the pcsxr-360 emulator that i found online.
