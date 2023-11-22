@@ -1,6 +1,5 @@
 # PCSXR-360 Collection
 
-Este repositório busca preservar as diversas versões do código-fonte do emulador PCSXR-360, disponibilizadas publicamente pela internet.
 This repository aims to preserve the diferent versions of the PCSXR-360's source code, made publicly available on the internet.
 
 ## Version details
